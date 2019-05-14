@@ -1,0 +1,11 @@
+*Short summary of what the user sees:*
+
+*Exact steps to reproduce the problem:*
+
+*Isolation: what must be true for it to happen? When does it not happen?*
+
+*Links to relevant test archives or logs:*
+
+*What attempts were made to find the root cause so far?*
+
+*Assistance requested*

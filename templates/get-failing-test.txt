@@ -1,0 +1,1 @@
+Can you send us a link to a failing test?  You can do this by logging into your account, finding the latest failed test, clicking it, then copy-pasting the URL into your reply to us.  With our admin accounts we can view your tests without any further steps on your part.
