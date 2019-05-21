@@ -2,9 +2,9 @@
 
 *Exact steps to reproduce the problem:*
 
-*Isolation: what must be true for it to happen? When does it not happen?*
+*Isolation: What must be true for it to happen? When does it not happen?*
 
-*Links to relevant test archives or logs:*
+*Links to Relevant Test Archives or Logs:*
 
 *What attempts were made to find the root cause so far?*
 
